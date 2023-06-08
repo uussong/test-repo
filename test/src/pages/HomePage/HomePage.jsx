@@ -16,7 +16,7 @@ const Img = styled.img`
 
 const Info = styled.p`
   font-family: 'Spoqa Han Sans Neo';
-  font-weight: 400;
+  font-size: 14px;
   color: #767676;
 `;
 
