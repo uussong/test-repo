@@ -5,7 +5,7 @@ import goBack from '../../../../assets/icon/icon-arrow-left.png'
 export default function GoBackButton() {
   return (
     <Button>
-      <img src={goBack} alt='뒤로가기' />
+      <img src={goBack} alt='뒤로 가기' />
     </Button>
   )
 }
