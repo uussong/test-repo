@@ -1,4 +1,3 @@
-import React from 'react';
 import styled from 'styled-components';
 import UserContainer from './container/UserContainer';
 import ProductsContainer from './container/ProductsContainer';
